@@ -1,0 +1,2 @@
+ALTER TABLE users
+ADD about VARCHAR(300) NOT NULL;
